@@ -42,7 +42,7 @@ Part 1: Create your Participants & Child
 
 Here is my guardian:
 
-.. image:: images/1
+.. image:: images/1.png
 
 4. Once you have successfully created a guardian, you will be welcomed with the guardian's homepage
 
